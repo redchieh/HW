@@ -1,0 +1,5 @@
+circle<-function(r){
+area<-r^2*pi
+return(area)
+}
+circle(9)
